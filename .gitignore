@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+.venv/
+
+# Dataset
+PetImages/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Processed NumPy data
+*.npy
+
+# Jupyter
+.ipynb_checkpoints/
